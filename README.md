@@ -3,9 +3,9 @@
 Lectures: 201
 Video: 8.5 total hours
 
--Master the Features of Python Language
--Learn various simple types as well as collection types
--Define logic using conditional statements ,looping constructs
+- Master the Features of Python Language
+- Learn various simple types as well as collection types
+- Define logic using conditional statements ,looping constructs
 -Use the different types of operators
 -See the input and output functions in action
 -Pass Command line arguments
