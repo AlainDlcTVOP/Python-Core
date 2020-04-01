@@ -725,3 +725,6 @@ Binding(ALT+ARROW_UP,
 		,,true),null),
 	org.eclipse.ui.defaultAcceleratorConfiguration,
 	org.eclipse.ui.textEditorScope,,,system)
+
+!ENTRY org.python.pydev.shared_core 4 4 2020-04-01 19:14:16.186
+!MESSAGE Info: Rebuilding internal caches: C:\Users\Kungen\eclipse-workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\controlstatements\com.python.pydev.analysis\AdditionalProjectInterpreterInfo.pydevinfo (Expected error to be provided and got no error!)
