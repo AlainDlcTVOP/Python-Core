@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move package &apos;org.studyeasy.entity&apos; to &apos;S22L02 - Understand Hibernate configuration/src&apos;&#x0D;&#x0A;- Original project: &apos;S22L01 - Add Hibernate Support&apos;&#x0D;&#x0A;- Destination element: &apos;S22L02 - Understand Hibernate configuration/src&apos;&#x0D;&#x0A;- Original element: &apos;S22L01 - Add Hibernate Support/src/org.studyeasy.entity&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move package" destination="=S22L02 - Understand Hibernate configuration/src" element1="/src&lt;org.studyeasy.entity" flags="589830" fragments="1" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.movePackages" stamp="1567165808933" version="1.0"/>
+</session>

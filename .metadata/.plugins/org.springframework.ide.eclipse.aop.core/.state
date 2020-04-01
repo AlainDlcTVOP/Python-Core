@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="S07L01 - Spring MVC minimal setup"/>
+<aop-project name="Add external"/>
+<aop-project name="S20L07 - Defining Beans (XML Configuration)"/>
+</aop-reference-model>

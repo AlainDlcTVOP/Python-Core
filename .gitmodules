@@ -1,0 +1,3 @@
+[submodule "Python-Core"]
+	path = Python-Core
+	url = https://github.com/AlainDlcTVOP/Python-Core.git

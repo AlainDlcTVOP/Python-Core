@@ -1,0 +1,10 @@
+"""s=input()
+print(s)
+s=input("Enter you name:")
+print(s)"""
+"""i=(int)(input("Enter a integer number\n"))
+print(type(i))
+"""
+lst = [x for x in input("The three numbers separate by space:").split()]
+
+print(lst)

@@ -1,0 +1,5 @@
+"""s=input()
+print(s)
+s=input("Enter you name:")
+print(s)"""
+i=(int)(input("Enter a integer number"))
